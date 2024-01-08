@@ -13,6 +13,7 @@ I'm currently learning backend development using Java, where my journey involves
 - I'm engaged in exciting Java projects.
 - I'm exploring and learning about cloud technologies.
 - I'm exploring different tools and libraries to enhance my skill set.
+- I'm learning about (UI)design focusing on the on the visual, interactive elements of a product to create aesthetically-pleasing interfaces.
 - I'm a night owl, always driven and constantly learning in the tech world.
 
 ## ✨ Fun Facts
@@ -20,6 +21,7 @@ I'm currently learning backend development using Java, where my journey involves
 - Demon Slayer is my favorite anime.
 - As a kid, I wanted to be an advocate.
 - Honestly I do not think that there is anything more nicer than sleeping.
+- I am a copywriter
 
 ## 📫 Contact
 
